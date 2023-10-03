@@ -4,4 +4,4 @@ Torchvision==0.2.2
 Pandas==0.24.2
 Numpy==1.62.2
 Matplotlib==3.0.3
-Pillow==5.4.1
+Pillow==10.0.1
